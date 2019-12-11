@@ -1,2 +1,5 @@
 # Nasa Discovery
- NASA API app
+## A webpage to display information based on the NASA API
+
+* Display image of the day
+* Display astroids ID
